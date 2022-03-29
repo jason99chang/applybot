@@ -2,7 +2,7 @@
 
 ## Features: 
 ###     Database 
-        - to keep track of jobs applied
+        **to keep track of jobs applied**
             1. Company name
             2. Date Applied
             3. Position Name
@@ -10,7 +10,7 @@
             5. Link
             
 ###     Auto Applier
-        - main program that will help make applying to jobs less repetative by autocompleting common fields
+        **main program that will help make applying to jobs less repetative by autocompleting common fields**
             1. Console
                 - Logs input taken, failed, applied, database updates, errors, and more.
             2. Input File
