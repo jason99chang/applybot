@@ -1,13 +1,14 @@
 # Job Applicator 
 
 ## Features: 
-###     -Database to keep track of jobs applied
+###     - Database - to keep track of jobs applied
             - Company name
             - Date Applied
             - Position Name
             - Status (not applied, applied, rejected, waiting for response, other)
             - Link
-###    -Auto Applier
+            
+###    - Auto Applier - main program that will help make applying to jobs less repetative by autocompleting common fields
             - Console
                 - Logs input taken, failed, applied, database updates, errors, and more.
             - Input File
